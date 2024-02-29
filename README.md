@@ -37,7 +37,7 @@ Do visit my projects at github to know more about my interest.
 
 <div><p>My profile overview: </p></div>
 
-![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=Bryan31004&show_icons=true)
+![Bryan31004 github stats](https://github-readme-stats.vercel.app/api?username=Bryan31004&show_icons=true)
 <br />
 <br />
 <br />
@@ -49,7 +49,7 @@ Do visit my projects at github to know more about my interest.
 <br />
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bryan31004&repo=Analisis-Covid19)](https://github.com/Bryan31004/Analisis-Covid19)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bryan31004&repo=credit-scoring-prediction)](https://github.com/Bryan31004/credit-scoring-prediction)
 
 <br />
 
