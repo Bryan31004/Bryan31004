@@ -48,6 +48,7 @@ Do visit my projects at github to know more about my interest.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bryan31004&repo=Analisis-Covid19)](https://github.com/Bryan31004/Analisis-Covid19)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bryan31004&repo=credit-scoring-prediction)](https://github.com/Bryan31004/credit-scoring-prediction)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bryan31004&repo=Consumer_Spending_Prediction_ML)](https://github.com/Bryan31004/credit-Consumer_Spending_Prediction_ML)
 
 <br />
 
